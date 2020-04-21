@@ -1,0 +1,12 @@
+{
+    "name": "wisdmlabs/todolist",
+    "description": "just for practice",
+    "authors": [
+        {
+            "name": "khizarSulehria",
+            "email": "khizar.sulehri.ks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
